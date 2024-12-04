@@ -1,2 +1,119 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    div {height:50px;width:100%;}
+    </style>
+    <div style="background-color:rgb(7, 169, 158)"></div>
+</head>
+
+<body>
+  <header>
+<h1>Andre Wu</h1>
+<style>
+  .avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+  }
+  </style>
+  <img src="O_MO15rE_400x400.jpg" alt="Avatar" class="avatar">
+</header>
+
+<p1><strong>
+  Cryptocurrency and blockchain Enthusiast. Community manager with friendly demeanor. Skilled at resolving community inquiries. Passionate about building strong relationships with both new and existing community members. Driving project’s brand image and loyalty. 
+</strong></p1>
+
+<style>
+  p1 {
+    font-size: 20px;
+  }
+</style>
+
+<header>
+<h3>Experiences</h3>
+</header>
+
+<dl>
+  <dt><b>Community Contributor on Avalanche Hub — August 2021-Present</b></dt>
+  
+  <dd>Avalanche Hub is a community growth platform for all aspects of 
+Avalanche. As a community contributor I participate in many community 
+activities led by Avalanche Hub admin on Community Hub platform. </dd>
+  <dt><b>Community Manager at Avalaunch — December 2021-Present</b></dt>
+  <dd>Avalaunch is a decentralized fundraising protocol, as known as 
+launchpad, built on Avalanche chain. </dd>
+	<dt><b>Community Manager at Aethir — May 2024-September 2024</b></dt>
+    <dd>Aethir is a cloud computing infrastructure platform that revolutionises the 
+ownership, distribution, and utilisation paradigms of enterprise-grade 
+graphical processing units (GPUs).</dd>
+<p>As a community manager I manage communication in telegram and 
+  discord, help and answer community members’ issues regarding 
+  platform, provide the newest information to community members, and 
+  translate all of announcements from English to Indonesian language for 
+  the Indonesian Community. </p>
+</dl>
+
+<style>
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+  </style>
+  <body>
+  
+  <h3>Key Skills and Characteristics</h3>
+  
+  
+  <table style="width:100%">
+   
+    </tr>
+    <tr>
+      <td>Leadership</td>
+      <td>Courteous</td>
+    
+    </tr>
+    <tr>
+      <td>Time Management</td>
+      <td>Friendly</td>
+    </tr>
+  <tr>
+      <td>Service Oriented</td>
+      <td>Team Work</td>
+    </tr>
+    <tr>
+    <td>Troubleshooting and Research</td>
+      <td>Patience</td>
+    <tr>
+      <td>Writting and Editing</td>
+      <td>Communication and Negotiation</td>
+    </tr>
+      
+  </table>
+
+<h3>Stay up to date</h3>
+<p>Get the newest updates from my post </p>
+<form action="/action_page.php">
+  <label for="">Email address:</label><br>
+  <input type="text" id="fname" value=""><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<header>
+  <h3>Contact Me</h3>
+  </header>
+  
+  <nav>
+  <a href="x.com/andre_shifu">X</a> |
+  <a href="https://t.me/@andrewuriadi">Telegram</a> |
+  <a href="https://github.com/andre02hub/">Github</a> |
+  <a href="andrewuriadi@gmail.com">Email</a>
+  </nav>
+</body>
+</html>
